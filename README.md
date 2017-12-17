@@ -7,7 +7,7 @@ This is a simple boilerplate application that integrates Angular 4 Framework wit
 To set up the application:
 1. Clone the repository
 2. In the terminal, run an npm install
-3. Run electron . in the terminal to test
-
+3. Build the angular application with "ng build"
+4. Run electron . in the terminal to test
 
 
